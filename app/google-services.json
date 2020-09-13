@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "293553952640",
+    "firebase_url": "https://biometric-6ffa1.firebaseio.com",
+    "project_id": "biometric-6ffa1",
+    "storage_bucket": "biometric-6ffa1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293553952640:android:da95cb31744dc9b00d9365",
+        "android_client_info": {
+          "package_name": "com.example.biometric"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293553952640-qcaokchf7hkahk8gvl1ru5481p6a73ed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.biometric",
+            "certificate_hash": "fdb95d47d49c6ca475e5e911c53d33c80feebae5"
+          }
+        },
+        {
+          "client_id": "293553952640-cmm2v4j09226sa7imdikdu8508445efj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB56J4Jf5XUTVzCPJkoUNc7FbexPZkvHoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293553952640-cmm2v4j09226sa7imdikdu8508445efj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
